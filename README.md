@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domin13322
 - 👀 I’m interested in programming and basketball
-- 🌱 I’m currently learning Python(mosly Django), sql and JS
+- 🌱 I’m currently learning JavaScript and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email- dominik.noga2001@gmail.com
 
