@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domin13322
 - 👀 I’m interested in programming and basketball
-- 🌱 I’m currently learning Angular, tslint, jenkins
+- 🌱 I’m currently learning Angular, Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email- dominik.noga2001@gmail.com
 
